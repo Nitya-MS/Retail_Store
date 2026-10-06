@@ -1,0 +1,9 @@
+product_id,product_name,category,subcategory,brand,unit_price
+P001,iPhone 15,Electronics,Mobile,Apple,799.00
+P002,Galaxy S24,Electronics,Mobile,Samsung,699.00
+P003,MacBook Air,Electronics,Laptop,Apple,1099.00
+P004,Dell Inspiron,Electronics,Laptop,Dell,849.00
+P005,Sony Headphones,Electronics,Audio,Sony,199.00
+P006,Nike Running Shoes,Footwear,Sports,Nike,120.00
+P007,Adidas T-Shirt,Clothing,T-Shirt,Adidas,35.00
+P008,Levis Jeans,Clothing,Jeans,Levis,80.00

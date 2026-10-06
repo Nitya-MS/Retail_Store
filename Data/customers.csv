@@ -1,0 +1,7 @@
+customer_id,first_name,last_name,email,city,state,country,signup_date
+C001,John,Smith,john.smith@email.com,New York,NY,USA,2024-01-15
+C002,Sarah,Wilson,sarah.wilson@email.com,Chicago,IL,USA,2024-02-20
+C003,David,Brown,david.brown@email.com,Boston,MA,USA,2024-03-10
+C004,Emily,Davis,emily.davis@email.com,Seattle,WA,USA,2024-04-05
+C005,Michael,Johnson,michael.j@email.com,Austin,TX,USA,2024-05-12
+C006,Robert,Miller,robert.miller@email.com,Denver,CO,USA,2024-06-18

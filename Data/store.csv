@@ -1,0 +1,5 @@
+store_id,store_name,city,state,country,store_type
+S001,Downtown Store,New York,NY,USA,Physical
+S002,Mall Store,Chicago,IL,USA,Physical
+S003,Central Store,Boston,MA,USA,Physical
+S004,Online Store,Online,NA,USA,Online
